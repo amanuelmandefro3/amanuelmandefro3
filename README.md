@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my own mern project
+- 🌱 I’m currently learning advanced python and dsa 
+- 👯 I’m looking to collaborate on any related python and js project
+  - ⚡ Fun fact: I am addicted to code  😄 
+
 <!--
 **amanuelmandefro3/amanuelmandefro3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
