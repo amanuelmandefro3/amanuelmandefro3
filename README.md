@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering @AASTU**
 
-- 👯 I’m looking to collaborate on **Any Full-Stack Project, Internship**
+- 👯 I’m looking to collaborate on **Any Full-Stack Project, Full-time Job**
 
 - 👨‍💻 All of my projects are available at [amanuelmr.me](amanuelmr.me)
 
