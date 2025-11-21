@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanuelmandefro3&label=Profile%20views&color=0e75b6&style=flat" alt="amanuelmandefro3" /> </p>
 
-- 🔭 I’m currently working on **Personal Full-stack Project**
-
-- 🌱 I’m currently learning **Software Engineering @AASTU**
+- 🌱 I’m currently Working as **Software Developer @Chromaway**
 
 - 👯 I’m looking to collaborate on **Any Full-Stack Project, Full-time Job**
 
-- 👨‍💻 All of my projects are available at [amanuelmr.me](amanuelmr.me)
+- 👨‍💻 All of my projects are available at [amanuel.work](amanuel.work)
 
-- 💬 Ask me about **react, nextjs, AI/ML, TailwindCSS, NodeJS(ExpressJS)**
+- 💬 Ask me about **react, nextjs, AI/ML, TailwindCSS, NodeJS(ExpressJS), GO**
 
 - 📫 How to reach me **amanuelmandefrow@gmail.com**
 
